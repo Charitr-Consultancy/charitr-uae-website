@@ -5,3 +5,5 @@
 .inner-hero>img{object-position:center 60%;}
 
 .consulting-domains .domain-card h3{font-size:23px}.consulting-domains .domain-card a{margin-top:auto}.consulting-domains .domain-card p{margin-bottom:30px}
+
+.domain-icon{display:block;width:42px;height:42px;color:#b45508;flex-shrink:0}
